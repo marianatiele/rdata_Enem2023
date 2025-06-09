@@ -15,9 +15,9 @@ Este projeto tem como objetivo explorar e visualizar os dados do Exame Nacional 
 
 ## 🛠️ Tecnologias Utilizadas
 
-- [Google Colab](https://colab.research.google.com/) — Ambiente de execução para notebooks Python.
-- [Apache Spark (PySpark)](https://spark.apache.org/docs/latest/api/python/) — Processamento distribuído de dados.
-- [Power BI Desktop](https://powerbi.microsoft.com/) — Visualização e criação de dashboards interativos.
+- Google Colab — Ambiente de execução para notebooks Python.
+- Apache Spark (PySpark) — Processamento distribuído de dados.
+- Power BI Desktop — Visualização e criação de dashboards interativos.
 - Python 3.10
 - Pandas (para exportação dos dados finais)
 - Google Drive
