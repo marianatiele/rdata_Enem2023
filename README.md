@@ -18,8 +18,9 @@ Este projeto tem como objetivo explorar e visualizar os dados do Exame Nacional 
 - [Google Colab](https://colab.research.google.com/) — Ambiente de execução para notebooks Python.
 - [Apache Spark (PySpark)](https://spark.apache.org/docs/latest/api/python/) — Processamento distribuído de dados.
 - [Power BI Desktop](https://powerbi.microsoft.com/) — Visualização e criação de dashboards interativos.
-- Python 3.x
+- Python 3.10
 - Pandas (para exportação dos dados finais)
+- Google Drive
 
 ---
 ## Base de Dados Tratada
