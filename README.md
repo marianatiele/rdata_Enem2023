@@ -33,7 +33,12 @@ Este projeto tem como objetivo explorar e visualizar os dados do Exame Nacional 
 - Correlação entre nota da redação e desempenho geral.
 - Perfil dos candidatos interessados em cada curso.
 
----
+## 🖼️ Visualização do Dashboard
+![image](https://github.com/user-attachments/assets/53e4869f-e90f-4afd-b2d7-f2dc6cff38d6)
+
+![image](https://github.com/user-attachments/assets/ca9a86fd-75ac-4154-9965-6e068a327db1)
+
+![image](https://github.com/user-attachments/assets/e341c94e-6824-4d82-8f88-f13eba562e7d)
 
 ## 📂 Estrutura do Projeto
 
