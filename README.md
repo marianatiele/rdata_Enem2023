@@ -22,7 +22,8 @@ Este projeto tem como objetivo explorar e visualizar os dados do Exame Nacional 
 - Pandas (para exportação dos dados finais)
 
 ---
-
+## Base de Dados Tratada
+- [Sisu 2023.2](https://docs.google.com/spreadsheets/d/1FIrcJlatzRoxwVhOIqJnegcOl4xkUgQW/edit?usp=sharing&ouid=114190455052555726962&rtpof=true&sd=true)
 ## 📊 Análises Realizadas
 
 - Distribuição de notas por curso.
