@@ -1,7 +1,16 @@
 # 🎓 Análise de Dados do ENEM 2023 com PySpark e Power BI
 
-Este projeto tem como objetivo explorar e visualizar os dados do Exame Nacional do Ensino Médio (ENEM) 2023 com foco em seis cursos de alto interesse, utilizando tecnologias de Big Data e Business Intelligence.
+Este projeto tem como objetivo explorar e visualizar os dados do Exame Nacional do Ensino Médio (ENEM) 2023 com foco em seis cursos de alto interesse, utilizando **PySpark** para  e **Power BI** para criar dashboards interativos. A análise permite verificar quantos aprovados foram por **cotas**, a **distribuição por estado**, médias de notas, perfil dos candidatos e outras informações relevantes para apoiar estudantes e pesquisadores.
 
+---
+
+![Homologado pela CGU](https://img.shields.io/badge/Homologado%20CGU-Reuso%20de%20Dados-brightgreen)
+
+## 🏅 Reconhecimento
+
+✅ **Este projeto foi homologado pela [Controladoria-Geral da União (CGU)](https://www.gov.br/cgu/pt-br)** no Concurso de Reuso de Dados Abertos, destacando-se como proposta inovadora de análise de dados educacionais.
+
+🔗 **Confira também na [Plataforma de Reuso de Dados](https://dados.gov.br/dados/reusos?colunaOrdenacao=nome&direcaoOrdenacao=ASC&tamanhoPagina=12&pagina=1)**.
 ---
 
 ## 📌 Objetivo
@@ -11,8 +20,7 @@ Este projeto tem como objetivo explorar e visualizar os dados do Exame Nacional 
 - Focar nos cursos: **Direito, Medicina, Arquitetura e Urbanismo, Psicologia, Ciência da Computação e Engenharia Elétrica**.
 - Visualizar insights em um dashboard interativo no **Power BI Desktop**.
 
----
-
+ ---
 ## 🛠️ Tecnologias Utilizadas
 
 - Google Colab 
