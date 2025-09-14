@@ -8,7 +8,7 @@ Este projeto tem como objetivo explorar e visualizar os dados do Exame Nacional 
 
 ## 🏅 Reconhecimento
 
-✅ **Este projeto foi homologado pela [Controladoria-Geral da União (CGU)](https://www.gov.br/cgu/pt-br)** no Concurso de Reuso de Dados Abertos, destacando-se como proposta inovadora de análise de dados educacionais. 
+✅ **Este projeto foi homologado pela [Controladoria-Geral da União (CGU)](https://www.gov.br/cgu/pt-br)** no Concurso de Reúso de Dados Abertos, destacando-se como proposta inovadora de análise de dados educacionais. 
 
 🔗 **Confira também na [Plataforma de Reuso de Dados](https://dados.gov.br/dados/reusos?colunaOrdenacao=nome&direcaoOrdenacao=ASC&tamanhoPagina=12&pagina=1)**.
 
