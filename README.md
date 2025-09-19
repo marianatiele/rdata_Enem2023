@@ -54,13 +54,13 @@ Este projeto tem como objetivo explorar e visualizar os dados do Exame Nacional 
 
 ## 🏆 Resultados 
 
-Reconhecimento oficial: Projeto homologado pela CGU no Concurso Nacional de Reúso de Dados, alcançando a 33ª colocação entre projetos de todo o país.
+- Reconhecimento oficial: Projeto homologado pela CGU no Concurso Nacional de Reúso de Dados, alcançando a 33ª colocação entre projetos de todo o país.
 
-Processamento eficiente de dados: Tratamento e análise de grandes volumes de dados do ENEM 2023 usando PySpark no Google Colab, garantindo rapidez e eficiência no processamento de milhares de registros.
+- Processamento eficiente de dados: Tratamento e análise de grandes volumes de dados do ENEM 2023 usando PySpark no Google Colab, garantindo rapidez e eficiência no processamento de milhares de registros.
 
-Insights estratégicos: Desenvolvimento de dashboards interativos no Power BI que permitem visualizar distribuição de notas, desempenho por estado, perfil dos candidatos e resultados por cotas, auxiliando estudantes e pesquisadores em decisões baseadas em dados.
+- Insights estratégicos: Desenvolvimento de dashboards interativos no Power BI que permitem visualizar distribuição de notas, desempenho por estado, perfil dos candidatos e resultados por cotas, auxiliando estudantes e pesquisadores em decisões baseadas em dados.
 
-Análise detalhada de cursos estratégicos: Foco em seis cursos de alto interesse, gerando informações acionáveis para cada perfil de candidato.
+- Análise detalhada de cursos estratégicos: Foco em seis cursos de alto interesse, gerando informações acionáveis para cada perfil de candidato.
 
-Organização e reprodutibilidade: Estrutura do projeto organizada no GitHub e Google Drive, garantindo reprodutibilidade e facilidade de manutenção para futuras análises.
+- Organização e reprodutibilidade: Estrutura do projeto organizada no GitHub e Google Drive, garantindo reprodutibilidade e facilidade de manutenção para futuras análises.
 
